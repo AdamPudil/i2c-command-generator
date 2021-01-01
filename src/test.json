@@ -1,0 +1,22 @@
+[
+    {
+        "name" : "RESET",
+        "code" : 55
+    },
+    {
+        "name" : "MOVE",
+        "code" : 56
+    },
+    {
+        "name" : "MOVE_TO",
+        "code" : 57
+    },
+    {
+        "name" : "NEGATIVE_TEST",
+        "code" : -1
+    },
+    {
+        "name" : "POSITIVE_TEST",
+        "code" : 256
+    }
+]
